@@ -1,4 +1,169 @@
 body {
     font-family: 'PT Sans Narrow', sans-serif;
-    margin: 40px;
+    margin: 0%;
+}
+
+span {
+    color: red;
+}
+
+.a {
+    display: flex;
+
+
+
+
+
+
+
+
+}
+
+.f {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+
+
+}
+
+.c {
+    width: 80%;
+    padding: 2%;
+    margin: 30px;
+    font-size: 30px;
+
+
+}
+
+
+.d {
+    width: 70%;
+    margin-right: 0px;
+}
+
+
+.b {
+    text-decoration: none;
+    color: black;
+    background-color: chocolate;
+    border-radius: 10px;
+    padding: 10px 40px;
+    font-size: 20px;
+    font-weight: 700;
+    background-image: linear-gradient(orange, red);
+
+
+
+}
+
+.e {
+    text-align: justify;
+    font-size: 30px;
+    padding: 10px;
+
+}
+
+.g {
+    width: 70%;
+    margin-right: 100px;
+
+}
+
+.h {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+
+
+}
+
+.i {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.j {
+    text-decoration: none;
+    color: black;
+    background-color: chocolate;
+    border-radius: 10px;
+    padding: 10px 40px;
+    font-size: 20px;
+    font-weight: 700;
+    background-image: linear-gradient(orange, red);
+
+
+}
+
+.k {
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.l {
+    width: 30%;
+    height: 70%;
+    margin-right: 5%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 50px gray;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 5%;
+
+}
+
+.s {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.z {
+    display: flex;
+    width: 120%;
+
+}
+
+.x {
+    margin: 10px;
+    text-align: center;
+
+}
+
+.v {
+    font-size: 20px;
+
+}
+
+.op {
+    width: 620px;
+    height: 200px;
+    box-shadow: 10px 10px 50px gray;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 0%;
+    text-align: center;
+    margin-left: 330px;
+    margin-right: 0px;
+
+}
+
+.bt {
+    font-size: 50px;
+}
+
+.u {
+    background-color: black;
+    background-image: linear-gradient(black, gray);
+    text-align: center;
+    color: beige;
+
+}
+
+.ot {
+    color: orange;
+}
+
+.vc {
+    color: green;
 }
